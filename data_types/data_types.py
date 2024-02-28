@@ -1,4 +1,4 @@
-'''
+
  a = int(3.163)
  print(a, type(a))
 
@@ -6,8 +6,8 @@
  print(b, type(b))
  
 
-c = float("10.5")
-print(c)
+ c = float("10.5")
+ print(c)
 
 d = int("11100110", 2)
 print(d)
@@ -50,4 +50,3 @@ print ("result of LEFT SHIFT is ", c,':',bin(c))
 
 c = a >> 2;       
 print ("result of RIGHT SHIFT is ", c,':',bin(c))
-'''
